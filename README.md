@@ -7,7 +7,7 @@ Short description of the role.
 Example
 -------
 
-```
+```yaml
 ---
 
 # Example how to use the role
@@ -22,7 +22,7 @@ Role variables
 
 List of variables used by the role:
 
-```
+```yaml
 # Description and default value of the variable
 rolename_var1: []
 ```

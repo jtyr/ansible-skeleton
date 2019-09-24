@@ -4,11 +4,11 @@ galaxy_info:
   author: <authors_name>
   description: <description>
   license: <license_name>
-  min_ansible_version: 1.7
+  min_ansible_version: 2.8
   platforms:
     - name: <platform>
       versions:
         - <platform_version>
-  categories:
+  galaxy_tags:
     - system
 dependencies: []
